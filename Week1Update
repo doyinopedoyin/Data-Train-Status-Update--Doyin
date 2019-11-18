@@ -1,0 +1,11 @@
+1-Linear regression seeks to estabish the relationship between datasets of two variables
+2-It seeks to achieve this by using the least sqaures method, denoted by R^2
+3-The greater the R^2, the higher percentage of variable Y being explained by Variable X
+4-It is a technique that seeks to establish the degree to which variable Y can be predicted by variable Y
+5-it utilises p values to test how reliable the relationship between variable X and Y is
+6-Linear regression is used for predicting continuous data like size
+7-plots the line of  best dfkit and utilises the concept of residuals in its computations
+8-Logistic regression seeks to establish parameters upon which a certain variable should be identified or classified in a binary system
+9-Logistic regression is widely used to classify variables as either belonging to this group or that group
+10-Logistics regression focuses on predicting discrete variables as either being true or false 
+11-use the concept of maxumum liklihood to predict the likelihood of an event occuring
